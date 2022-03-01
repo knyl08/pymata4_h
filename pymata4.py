@@ -29,8 +29,8 @@ import sys
 import threading
 import time
 
-from pymata4H.pin_data import PinData
-from pymata4H.private_constants import PrivateConstants
+from pymata4_h.pin_data import PinData
+from pymata4_h.private_constants import PrivateConstants
 
 
 # noinspection PyPep8
